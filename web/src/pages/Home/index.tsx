@@ -4,7 +4,11 @@ import './style.css';
 
 const Home = () => {
     return (
-        <h1>show</h1>
+        <div id="page-home">
+            <div className="content">
+                
+            </div>
+        </div>
     )
 }
 
